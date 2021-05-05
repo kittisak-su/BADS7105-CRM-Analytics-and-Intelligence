@@ -114,4 +114,4 @@ WHERE
 GROUP BY
   visit_date_fix
 ORDER BY
-  visit_date_fix
+  visit_date_fix;
