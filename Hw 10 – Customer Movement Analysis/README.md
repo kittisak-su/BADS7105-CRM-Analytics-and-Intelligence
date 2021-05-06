@@ -1,4 +1,4 @@
-##Customer Movement Analysis
+## Customer Movement Analysis
 #### Customer status
 * New Customer - ลูกค้าใหม่เลย ไม่เคยปรากฎในเดือนก่อนๆ
 * Reactivated Customer - ลูกค้าที่เคยมาซื้อแล้วหายไป เดือนก่อนไม่ปรากฎ แล้วกลับมาซื้อใหม่
