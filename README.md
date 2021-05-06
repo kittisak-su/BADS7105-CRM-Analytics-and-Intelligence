@@ -8,7 +8,5 @@
 * [Hw 07 – Product Recommendation](https://github.com/kittisak-su/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Hw%2007%20%E2%80%93%20Product%20Recommendation)
 * [Hw 08 – Campaign Response Model](https://github.com/kittisak-su/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Hw%2008%20%E2%80%93%20Campaign%20Response%20Model)
 * [Hw 09 – A/B Testing](https://github.com/kittisak-su/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Hw%2009%20%E2%80%93%20AB%20Testing)
-
-![](https://github.com/kittisak-su/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Hw%2009%20%E2%80%93%20AB%20Testing/AB.jpg)
 * [Hw 10 – Customer Movement Analysis](https://github.com/kittisak-su/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Hw%2010%20%E2%80%93%20Customer%20Movement%20Analysis)
 * [Hw 11 – Voice of customer](https://github.com/kittisak-su/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Hw%2011%20%E2%80%93%20Voice%20of%20customer)
