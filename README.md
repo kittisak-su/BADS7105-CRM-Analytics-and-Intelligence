@@ -1,5 +1,5 @@
 # BADS7105-CRM-Analytics-and-Intelligence
-* Hw 01 – Analysis of customer behaviors
+* [Hw 01 – Analysis of customer behaviors] (https://github.com/kittisak-su/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Hw%2001%20%E2%80%93%20Analysis%20of%20customer%20behaviors)
 * Hw 02 – Jobs to be done
 * Hw 03 – Value Proposition
 * Hw 04 – Customer Journey
